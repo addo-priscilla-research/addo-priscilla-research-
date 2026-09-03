@@ -14,17 +14,6 @@ I am passionate about developing **reproducible, data-driven research workflows*
 
 
 
-🔬 Research Interests
-
-* Weather and climate modeling
-* Mesoscale meteorology and extreme weather
-* Extreme precipitation and flooding
-* Remote sensing and Earth observation
-* Land–atmosphere interactions
-* Climate variability and change
-* Environmental and atmospheric modeling
-* Data-driven approaches to climate analysis
-
 💻 Technical Skills  
 ## 🛠️ Technical Skills
 
