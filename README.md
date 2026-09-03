@@ -68,3 +68,6 @@ LinkedIn: https://www.linkedin.com/in/priscilla-addo-5b5bb1243
 ## 🐍 Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/addo-priscilla-research/addo-priscilla-research-/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=addo-priscilla-research&show_icons=true&theme=default)
