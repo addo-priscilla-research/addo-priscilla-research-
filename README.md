@@ -24,21 +24,16 @@ I am an atmospheric and climate researcher interested in understanding weather a
 
 💻 Technical Skills
 
-Programming & Data Analysis:
-Python | Fortran | MATLAB | C++
+## 🛠️ Technical Skills
 
-Atmospheric & Climate Data:
-ERA5 | GPM | MODIS | Landsat | NASA POWER
-
-Modeling:
-WRF | Penman–Monteith | Statistical Modeling
-
-Remote Sensing & GIS:
-ArcGIS | QGIS | Google Earth Engine | Raster Analysis | Spatial Analysis
-
-Scientific Computing:
-NumPy | Pandas | SciPy | Matplotlib | xarray | GeoPandas | Cartopy
-
+- **Programming:** Python, Fortran, C++
+- **Data Analysis:** Pandas, NumPy, Xarray, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+- **Atmospheric Modeling:** WRF
+- **Remote Sensing & Climate Data:** ERA5, NASA POWER, Satellite Data
+- **GIS:** ArcGIS, QGIS
+- **Platforms:** Google Colab, Jupyter Notebook, GitHub
+  
 👩🏾‍🏫 Academic & Research Experience
 
 * Teaching Assistant — Kwame Nkrumah University of Science and Technology (KNUST)
