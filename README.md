@@ -1,8 +1,17 @@
-# addo-priscilla-research-Hi, I’m Priscilla Addo 👋🏾
+# Hi, I’m Priscilla Addo 👋🏾
 
-Atmospheric & Climate Research | Weather & Climate Modeling | Remote Sensing
+### 🌍 Atmospheric & Climate Research | Weather & Climate Modeling | Remote Sensing | Environmental Data Science
 
-I am an atmospheric and climate researcher interested in understanding weather and climate variability through numerical modeling, satellite remote sensing, reanalysis datasets, and environmental data analysis.
+I am an atmospheric and climate researcher with a strong interest in understanding the physical processes that drive weather and climate variability, extreme weather, and environmental change. My research interests span **mesoscale meteorology, severe weather, extreme precipitation, atmospheric dynamics, climate variability, air quality, land–atmosphere interactions, and hydrometeorology**.
+
+I use **numerical modeling, satellite remote sensing, reanalysis datasets, GIS, and scientific programming** to investigate atmospheric and environmental processes across different spatial and temporal scales. My technical experience includes **WRF, ERA5, GPM/IMERG, Google Earth Engine, Python, Fortran, MATLAB, ArcGIS Pro, QGIS, and machine-learning methods** for atmospheric and environmental data analysis.
+
+My research experience includes investigating **African Easterly Waves and extreme precipitation over West Africa, Penman–Monteith evapotranspiration, urban heat island dynamics, air-quality variability, and land-surface and atmospheric processes**. I am particularly interested in combining high-resolution modeling, observations, and data-driven approaches to better understand and predict high-impact weather and climate-related hazards.
+
+I am passionate about developing **reproducible, data-driven research workflows** and translating atmospheric and climate research into knowledge that can support improved weather prediction, environmental monitoring, climate resilience, and sustainable decision-making.
+
+🔬 **Currently interested in:** Mesoscale Meteorology • Severe Storms • Extreme Precipitation • Atmospheric Dynamics • Weather & Climate Modeling • Remote Sensing • Air Quality • Hydrometeorology • Land–Atmosphere Interactions • Environmental Modeling
+
 
 
 🔬 Research Interests
