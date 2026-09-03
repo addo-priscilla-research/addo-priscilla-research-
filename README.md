@@ -35,12 +35,35 @@ I am an atmospheric and climate researcher interested in understanding weather a
 * 🌫️ NO₂ Trends and Meteorological Controls in Kumasi, Ghana — Analysis of atmospheric pollution patterns and their relationship with meteorological conditions.
 * 🌧️ Extreme Precipitation Analysis in Ghana — Investigation of rainfall variability and extreme precipitation using satellite and reanalysis datasets.
 
+## 💼 Professional & Research Experience
 
-👩🏾‍🏫 Academic & Research Experience
+### 👩🏾‍🏫 Teaching Assistant — Department of Petroleum Engineering, KNUST
 
-* Teaching Assistant — Kwame Nkrumah University of Science and Technology (KNUST)
-* Research Assistant — Net-Zero Carbon Emission Laboratory, KNUST
-* Research and data analysis in atmospheric science, climate, environmental monitoring, and geospatial applications
+**Nov. 2025–Present**
+
+* Facilitate tutorials, laboratory sessions, practical exercises, and field activities for undergraduate students.
+* Support teaching in **Python, Energy & Climate, Thermodynamics, and Numerical Methods**.
+* Guide students in numerical problem-solving, scientific computing, Python-based data analysis, and quantitative interpretation.
+* Assist with assessments, laboratory reports, examinations, instructional materials, and student consultations.
+
+### 🔬 Research Assistant — Net-Zero Emission Lab, KNUST
+
+**Nov. 2025–Present**
+
+* Process and quality-control meteorological, environmental, and atmospheric datasets using Python and statistical methods.
+* Analyze meteorological and remote-sensing data to investigate atmospheric conditions, land-surface characteristics, environmental variability, and climate processes.
+* Apply **GIS, Google Earth Engine, and satellite observations** to investigate spatial and temporal environmental change.
+* Develop reproducible Python workflows for data processing, statistical analysis, visualization, and research interpretation.
+* Prepare technical reports, scientific visualizations, research summaries, and presentations.
+
+### 🌦️ Intern — Ghana Meteorological Agency
+
+**Sept. 2023–Dec. 2023**
+
+* Processed and analyzed meteorological and environmental datasets to investigate temporal variability, trends, and extreme conditions.
+* Applied Python, GIS, remote sensing, and statistical methods to meteorological and environmental analysis.
+* Developed data-processing and visualization workflows for research and technical reporting.
+
 
   ## 👥 Leadership & Outreach
 
