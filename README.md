@@ -65,3 +65,6 @@ LinkedIn: https://www.linkedin.com/in/priscilla-addo-5b5bb1243
 ⸻
 
 *Using atmospheric observations, remote sensing, and numerical modeling to better understand weather and climate.
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/addo-priscilla-research/addo-priscilla-research-/output/github-contribution-grid-snake.svg)
